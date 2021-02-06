@@ -26,6 +26,8 @@ function App() {
         <label htmlFor='amount'>Number of paragraphs:</label>
         <input
           type='number'
+          min='1'
+          max='8'
           name='amount'
           id='amount'
           value={count}
