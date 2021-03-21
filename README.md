@@ -9,3 +9,4 @@
 | Menu                  | [Menu](https://github.com/desirekaleba/react-progs/tree/main/menu)                             | ![menu](assets/screenshots/menu.png)                                   |
 | Reviews               | [Reviews](https://github.com/desirekaleba/react-progs/tree/main/reviews)                       | ![reviews](assets/screenshots/reviews.png)                             |
 | Slider                | [Slider](https://github.com/desirekaleba/react-progs/tree/main/slider)                         | ![slider](assets/screenshots/slider.png)                               |
+| Tabs                  | [Tabs](https://github.com/desirekaleba/react-progs/tree/main/tabs)                             | ![tabs](assets/screenshots/tabs.png)                                   |
